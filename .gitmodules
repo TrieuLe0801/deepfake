@@ -1,0 +1,3 @@
+[submodule "genD"]
+	path = genD
+	url = https://github.com/yermandy/GenD.git
