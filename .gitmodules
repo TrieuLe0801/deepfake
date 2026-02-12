@@ -1,3 +1,9 @@
 [submodule "genD"]
 	path = genD
 	url = https://github.com/yermandy/GenD.git
+[submodule "mlc"]
+	path = mlc
+	url = https://github.com/yanwd628/MLC
+[submodule "deepFakeBench"]
+	path = deepFakeBench
+	url = https://github.com/SCLBD/DeepfakeBench.git
